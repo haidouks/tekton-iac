@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Invoking Powershell"
-./cnsn.ps1
+pwsh -File ./cnsn.ps1
